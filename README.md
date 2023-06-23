@@ -1,6 +1,7 @@
 # How to run the code
 
 First download the datasets and the self-supervised model:
+
   CheXpert: https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2
   
   Chest X-ray14: https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/37178474737
