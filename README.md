@@ -2,7 +2,9 @@
 
 First download the datasets and the self-supervised model:
   CheXpert: https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2
+  
   Chest X-ray14: https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/37178474737
+  
   cxr-50x1-remedis-m: https://physionet.org/content/medical-ai-research-foundation/1.0.0/
 
 Secondly run notebooks stored in the Data Filterting and Exploration folder, starting with the Chest X-ray14 and CheXpert Filterting notebooks.
